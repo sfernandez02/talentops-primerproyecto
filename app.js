@@ -8,3 +8,4 @@ function saludar(nombre) {
 saludar('Desarrollador');
 
 // Se agrega comentario informativo
+// Saludo incluye apellido
